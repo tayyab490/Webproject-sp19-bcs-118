@@ -1,0 +1,54 @@
+.backPage{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.all{
+    margin-top: 6em;
+    margin-bottom: 2em;
+    float: none;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 20px;
+    box-shadow: 0 5px 12px rgba(0, 0, 0, 0.2);
+}
+
+.bgImage{
+  height:  auto; 
+  min-height:  100%;
+  background-position: right;
+  background-image: url(../../../public/signupImg.jpg);
+  background-size: cover;
+  background-position: center;
+  border-top-left-radius:  20px; 
+  border-bottom-left-radius:  20px; 
+}
+.col-md-4{
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(../../../public/heroBG.jpg);
+}
+
+.form-group{
+    padding-top: 1rem;
+    padding-right: 1rem;
+}
+
+.form-check-label{
+    text-align: left;
+}
+.form-check-input{
+    text-align: left;
+}
+
+button{
+    margin: 2rem;
+    width: 160px;
+}
+
+/* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} */
